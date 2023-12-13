@@ -4,7 +4,9 @@ import Index from "./index";
 export default function App({Component, pageProps}: AppProps) {
     return (
         <>
-        <Index/>
+        <Index /> 
         </>
     )
 }
+// yarn add @mui/material @emotion/react @emotion/styled
+// yarn add axios
